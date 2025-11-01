@@ -7,7 +7,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=BlackHamo&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Black%20Hamo-grey?style=flat&logo=telegram)](https://t.me/Cyb3ru)
+[![telegram badge](https://img.shields.io/badge/Future%20Code-grey?style=flat&logo=telegram)](https://t.me/Cyb3ru)
 </div>
 
 ---
