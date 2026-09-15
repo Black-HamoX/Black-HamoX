@@ -1,84 +1,44 @@
-<h1 align="center">⚡ BLACK HAMO</h1><p align="center">
-  <strong>💻 Web & Python Developer • 🐍 Python Enthusiast • 🔥 Content Creator</strong>
+<h1 align="center">⚡ BLACK HAMO</h1><h3 align="center">
+💻 Web & Python Developer &nbsp;•&nbsp; 🐍 Python Developer &nbsp;•&nbsp; 🔥 Telegram Content Creator
+</h3><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlackHamo&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
 </p><p align="center">
   <a href="https://t.me/rootaccess_7">
     <img src="https://img.shields.io/badge/Telegram-Root%20Access-00ff88?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=BlackHamo&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/BlackHamo">
+    <img src="https://img.shields.io/badge/GitHub-BlackHamo-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>---
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="65%"/>
+</p><p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/>
 </p>---
 
 🧠 About Me
 
-class BlackHamo:
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-00ff88?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Python%20Developer-00ff88?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111"/>
+</p><p align="center">
+I'm a developer interested in building web applications, Python projects,
+automation tools and exploring cybersecurity technologies.
+</p><p align="center">
+🚀 Build &nbsp;•&nbsp; 🧠 Learn &nbsp;•&nbsp; 🔧 Experiment &nbsp;•&nbsp; ⚡ Create
+</p>---
 
-    def __init__(self):
-        self.name = "Black Hamo"
-        self.role = "Web & Python Developer"
-        self.focus = [
-            "Web Development",
-            "Python Development",
-            "Cybersecurity",
-            "Automation",
-            "Content Creation"
-        ]
+📊 Programming Skills
 
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "CSS",
-            "JSON"
-        ]
+<p align="center"><img src="https://img.shields.io/badge/Python-85%25-00ff88?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>
+<img src="https://img.shields.io/badge/HTML5-90%25-00ff88?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111"/>
+<img src="https://img.shields.io/badge/CSS3-75%25-00ff88?style=for-the-badge&logo=css3&logoColor=white&labelColor=111111"/><br><br>
 
-        self.databases = [
-            "Firebase",
-            "SQLite"
-        ]
-
-        self.tools = [
-            "Git",
-            "Linux",
-            "VSCode",
-            "Figma",
-            "Photoshop"
-        ]
-
-    def current_status(self):
-        return "Building • Learning • Creating 🚀"
-
----
-
-🚀 Developer Stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlackHamo&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHamo&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="180"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHamo&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="180"/></p>---
-
-🧠 Programming Skills
-
-🐍 Python
-
-<img src="https://img.shields.io/badge/Python-85%25-00ff88?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>█████████████████░░░  85%
-
-🌐 HTML5
-
-<img src="https://img.shields.io/badge/HTML5-90%25-00ff88?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111"/>██████████████████░░  90%
-
-🎨 CSS3
-
-<img src="https://img.shields.io/badge/CSS3-75%25-00ff88?style=for-the-badge&logo=css3&logoColor=white&labelColor=111111"/>███████████████░░░░░  75%
-
-⚡ JavaScript
-
-<img src="https://img.shields.io/badge/JavaScript-70%25-00ff88?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111111"/>██████████████░░░░░░  70%
-
-🔥 Firebase
-
-<img src="https://img.shields.io/badge/Firebase-80%25-00ff88?style=for-the-badge&logo=firebase&logoColor=white&labelColor=111111"/>████████████████░░░░  80%
-
-🐧 Git & Linux
-
-<img src="https://img.shields.io/badge/Git%20%26%20Linux-60%25-00ff88?style=for-the-badge&logo=linux&logoColor=white&labelColor=111111"/>████████████░░░░░░░░  60%
-
----
+<img src="https://img.shields.io/badge/JavaScript-70%25-00ff88?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111111"/>
+<img src="https://img.shields.io/badge/Firebase-80%25-00ff88?style=for-the-badge&logo=firebase&logoColor=white&labelColor=111111"/>
+<img src="https://img.shields.io/badge/Git%20%26%20Linux-60%25-00ff88?style=for-the-badge&logo=linux&logoColor=white&labelColor=111111"/></p>---
 
 💻 Tech Stack
 
@@ -98,59 +58,64 @@ class BlackHamo:
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/></p>---
 
-📊 Skill Matrix
+📈 GitHub Statistics
 
-Technology| Level| Progress
-🐍 Python| Advanced| "█████████████████░░░" 85%
-🌐 HTML5| Advanced| "██████████████████░░" 90%
-🎨 CSS3| Intermediate+| "███████████████░░░░░" 75%
-⚡ JavaScript| Intermediate| "██████████████░░░░░░" 70%
-🔥 Firebase| Advanced| "████████████████░░░░" 80%
-🗄️ SQLite| Intermediate| "██████████████░░░░░░"
-🐧 Linux| Intermediate| "████████████░░░░░░░░"
-🔧 Git| Intermediate| "████████████░░░░░░░░"
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlackHamo&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true" height="180"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHamo&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=888888" height="180"/></p>---
 
----
+🧩 Most Used Languages
 
-🎯 What I Do
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHamo&layout=donut&hide_border=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8"/></p>---
 
-╔══════════════════════════════════════════════════════╗
-║                  BLACK HAMO                         ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  🐍 Python Development        █████████████████ 85% ║
-║  🌐 Web Development           ██████████████████ 90%║
-║  ⚡ JavaScript                ██████████████░░░ 70% ║
-║  🔥 Firebase                  ████████████████░ 80% ║
-║  🐧 Linux & Git               ████████████░░░░░ 60% ║
-║  🎨 UI / Design               ██████████████░░░ 70% ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+🏆 GitHub Trophies
 
----
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=BlackHamo&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/></p>---
 
-🔥 GitHub Activity
+📊 Contribution Activity
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackHamo&theme=github-compact&hide_border=true&area=true&color=00ff88&line=00ff88"/></p>---
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackHamo&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/></p>---
 
-🏆 GitHub Achievements
+🚀 What I'm Working On
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=BlackHamo&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1"/></p>---
+<p align="center"><table align="center">
+<tr>
+<td align="center" width="200">🐍<br>
+<b>Python</b><br>
+Automation & Development
 
-📈 Contribution Snake
+</td><td align="center" width="200">🌐<br>
+<b>Web Development</b><br>
+Modern Web Projects
 
-<p align="center"><img src="https://raw.githubusercontent.com/BlackHamo/BlackHamo/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></p>---
+</td><td align="center" width="200">🛡️<br>
+<b>Cybersecurity</b><br>
+Learning & Research
 
-🌐 Connect With Me
+</td><td align="center" width="200">🔥<br>
+<b>Content</b><br>
+Telegram Projects
+
+</td>
+</tr>
+</table></p>---
+
+🌐 Root Access
 
 <p align="center"><a href="https://t.me/rootaccess_7">
-<img src="https://img.shields.io/badge/Telegram-ROOT%20ACCESS-00ff88?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><a href="https://github.com/BlackHamo">
-<img src="https://img.shields.io/badge/GitHub-BLACK%20HAMO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROOT%20ACCESS-00ff88?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/>
+</a></p><p align="center">
+<b>Cybersecurity • Tools • Tutorials • Research</b>
+</p>---
+
+🤝 Connect
+
+<p align="center"><a href="https://github.com/BlackHamo">
+<img src="https://img.shields.io/badge/GitHub-BlackHamo-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://t.me/rootaccess_7">
+<img src="https://img.shields.io/badge/Telegram-Root%20Access-111111?style=for-the-badge&logo=telegram&logoColor=00ff88"/>
 </a></p>---
 
-<h3 align="center">⚡ Code. Build. Break. Learn. Repeat. ⚡
-
-</h3><p align="center">
-<strong>「 Always learning. Always building. 」</strong>
-</p><p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/>
+</p><h3 align="center">
+⚡ Code • Build • Learn • Repeat ⚡
+</h3>
