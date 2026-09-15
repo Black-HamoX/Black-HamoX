@@ -144,6 +144,27 @@ me.say_hi()
 
 ---
 
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=BlackHamo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00FFAB&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackHamo&theme=github_dark" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackHamo&theme=github_dark" width="46%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHamo&theme=radical&border=00FFAB&stroke=00FFAB&hide_border=true"/>
+
+</div>
+
+<br/>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
