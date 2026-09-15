@@ -144,27 +144,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackHamo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00FFAB"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHamo&layout=compact&langs_count=8&theme=radical&border_color=00FFAB"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHamo&theme=radical&border=00FFAB&stroke=00FFAB"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=BlackHamo&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
