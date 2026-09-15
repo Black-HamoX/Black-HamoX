@@ -1,15 +1,11 @@
 <div align="center">
 
-<!-- Animated typing header -->
+<!-- Animated typing header (reliable, no external images) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFAB&center=true&vCenter=true&width=650&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Black+Hamo;%F0%9F%92%BB+Web+%26+Python+Developer;%F0%9F%94%A5+Content+Creator+on+Telegram;%E2%9C%A8+Welcome+to+my+Profile" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="55%"/>
 
 <br/><br/>
 
-<!-- Social badges -->
+<!-- Social badges (shields.io - always renders) -->
 <a href="#">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -90,21 +86,11 @@ me.say_hi()
 
 ---
 
-## ⭕ Circular Skill Rings
+## ⭕ Skill Rings (Icon + Percentage)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ChiragMukherjee/ChiragMukherjee/master/svg/skills-circle.svg" width="0" height="0"/>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://progress-bar.dev/85/?scale=100&width=90&color=3776ab&suffix=%25" height="0"/>
-</td>
-</tr>
-</table>
-
-<!-- Circular SVG ring badges via skillratings -->
-<img src="https://skillicons.dev/icons?i=py" height="45"/> 
+<img src="https://skillicons.dev/icons?i=py" height="45"/>
 <img src="https://img.shields.io/badge/-85%25-3776AB?style=for-the-badge&labelColor=1a1a1a" height="45"/>
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
@@ -131,34 +117,9 @@ me.say_hi()
 ## 🛠️ Tools & Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,linux,figma,photoshop,firebase&theme=dark" height="55"/>
-</div>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,js,py,css,firebase,git,linux,vscode,figma,photoshop&theme=dark" height="55"/>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SP-XD&theme=chartreuse-dark&hide_border=true" />
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <br/>
@@ -175,10 +136,6 @@ me.say_hi()
 <a href="#">
   <img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SP-XD&label=Profile%20Views&color=00FFAB&style=for-the-badge" />
 
 </div>
 
