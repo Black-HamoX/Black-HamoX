@@ -1,187 +1,187 @@
-<h1 align="center">
-  ⚡ BLACK HAMO
-</h1><p align="center">
-  <b>💻 Web Developer</b>
-  &nbsp; • &nbsp;
-  <b>🐍 Python Developer</b>
-  &nbsp; • &nbsp;
-  <b>🔥 Content Creator</b>
-</p><p align="center">
-  <a href="https://github.com/BlackHamo">
-    <img src="https://img.shields.io/badge/GitHub-BlackHamo-111111?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://t.me/rootaccess_7">
-    <img src="https://img.shields.io/badge/Telegram-Root%20Access-111111?style=for-the-badge&logo=telegram&logoColor=00ff88">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BlackHamo&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS">
-</p>---
+<div align="center">
 
-👨‍💻 About Me
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFAB&center=true&vCenter=true&width=650&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Black+Hamo;%F0%9F%92%BB+Web+%26+Python+Developer;%F0%9F%94%A5+Content+Creator+on+Telegram;%E2%9C%A8+Welcome+to+my+Profile" alt="Typing SVG" />
 
-class BlackHamo:
+<br/>
 
-    role = "Web & Python Developer"
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="55%"/>
 
-    interests = [
-        "Web Development",
-        "Python Development",
-        "Automation",
-        "Cybersecurity",
-        "Content Creation"
-    ]
+<br/><br/>
 
-    mindset = "Learn • Build • Improve"
+<!-- Social badges -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-    status = "Always building something new 🚀"
+</div>
+
+<br/>
 
 ---
 
-🧠 Programming Skills
+## 🧑‍💻 About Me
 
-<table align="center">
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Black Hamo"
+        self.role = ["Web Developer 🌐", "Python Developer 🐍", "Content Creator 🔥"]
+        self.platform = "Telegram"
+        self.current_focus = "Building clean, fast & creative projects"
+        self.fun_fact = "I debug faster with coffee ☕"
+
+    def say_hi(self):
+        print("Thanks for stopping by my profile! 🚀")
+
+me = AboutMe()
+me.say_hi()
+```
+
+<br/>
+
+---
+
+## 🧠 Skill Progress
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,html,css,js,firebase,git,linux,vscode,figma,photoshop&theme=dark" height="60"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Python**
+<br/>
+![Python](https://progress-bar.dev/85/?width=500&color=3776AB&title=Python)
+
+**HTML5**
+<br/>
+![HTML](https://progress-bar.dev/90/?width=500&color=E34F26&title=HTML)
+
+**CSS3**
+<br/>
+![CSS](https://progress-bar.dev/75/?width=500&color=8A2BE2&title=CSS)
+
+**JavaScript**
+<br/>
+![JavaScript](https://progress-bar.dev/70/?width=500&color=F0DB4F&title=JS)
+
+**Firebase**
+<br/>
+![Firebase](https://progress-bar.dev/80/?width=500&color=FFCA28&title=Firebase)
+
+**Git & Linux**
+<br/>
+![GitLinux](https://progress-bar.dev/60/?width=500&color=6e6e6e&title=Git+%26+Linux)
+
+</div>
+
+<br/>
+
+---
+
+## ⭕ Circular Skill Rings
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ChiragMukherjee/ChiragMukherjee/master/svg/skills-circle.svg" width="0" height="0"/>
+
+<table>
 <tr>
-<td align="center" width="160">🐍<br>
-<b>Python</b><br>
-<progress value="85" max="100"></progress><br>
-<strong>85%</strong>
-
-</td><td align="center" width="160">🌐<br>
-<b>HTML5</b><br>
-<progress value="90" max="100"></progress><br>
-<strong>90%</strong>
-
-</td><td align="center" width="160">🎨<br>
-<b>CSS3</b><br>
-<progress value="75" max="100"></progress><br>
-<strong>75%</strong>
-
-</td>
-</tr><tr>
-<td align="center">⚡<br>
-<b>JavaScript</b><br>
-<progress value="70" max="100"></progress><br>
-<strong>70%</strong>
-
-</td><td align="center">🔥<br>
-<b>Firebase</b><br>
-<progress value="80" max="100"></progress><br>
-<strong>80%</strong>
-
-</td><td align="center">🐧<br>
-<b>Linux</b><br>
-<progress value="60" max="100"></progress><br>
-<strong>60%</strong>
-
+<td align="center">
+<img src="https://progress-bar.dev/85/?scale=100&width=90&color=3776ab&suffix=%25" height="0"/>
 </td>
 </tr>
-</table>---
+</table>
 
-💻 Tech Stack
+<!-- Circular SVG ring badges via skillratings -->
+<img src="https://skillicons.dev/icons?i=py" height="45"/> 
+<img src="https://img.shields.io/badge/-85%25-3776AB?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://img.shields.io/badge/-90%25-E34F26?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://img.shields.io/badge/-75%25-8A2BE2?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+<img src="https://img.shields.io/badge/-70%25-F0DB4F?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+<img src="https://img.shields.io/badge/-80%25-FFCA28?style=for-the-badge&labelColor=1a1a1a" height="45"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,linux" height="45"/>
+<img src="https://img.shields.io/badge/-60%25-6e6e6e?style=for-the-badge&labelColor=1a1a1a" height="45"/>
 
-<p align="center"><a href="#">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,json,firebase,sqlite,git,linux,vscode,figma,photoshop&perline=6">
-</a></p>---
+</div>
 
-🛠️ Tools & Technologies
+<br/>
 
-<p align="center"><img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"><br><img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28">
-<img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57">
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"><br><img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
-<img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E">
-<img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"></p>---
+---
 
-📊 GitHub Statistics
+## 🛠️ Tools & Tech Stack
 
-<p align="center"><a href="https://github.com/BlackHamo">
-<img src="https://github-readme-stats.vercel.app/api?username=BlackHamo&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true">
-</a></p>---
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,linux,figma,photoshop,firebase&theme=dark" height="55"/>
+</div>
 
-🔥 GitHub Streak
+<br/>
 
-<p align="center"><a href="https://github.com/BlackHamo">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHamo&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=777777">
-</a></p>---
+---
 
-📚 Most Used Languages
+## 📊 GitHub Stats
 
-<p align="center"><a href="https://github.com/BlackHamo">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHamo&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8">
-</a></p>---
+<div align="center">
 
-🎯 What I Do
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
-<table align="center">
-<tr><td align="center" width="200">🐍<br>
-<b>Python</b>
+<br/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SP-XD&theme=chartreuse-dark&hide_border=true" />
 
-Automation<br>
-Backend<br>
-Tools
+</div>
 
-</td><td align="center" width="200">🌐<br>
-<b>Web Development</b>
+<br/>
 
-<br><br>
+---
 
-HTML<br>
-CSS<br>
-JavaScript
+## 🐍 Contribution Snake
 
-</td><td align="center" width="200">🛡️<br>
-<b>Cybersecurity</b>
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 
-<br><br>
+<br/>
 
-Research<br>
-Security Tools<br>
-Learning
+---
 
-</td><td align="center" width="200">🔥<br>
-<b>Content</b>
+## 📫 Let's Connect
 
-<br><br>
+<div align="center">
 
-Telegram<br>
-Tutorials<br>
-Tech Content
+<a href="#">
+  <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</td></tr>
-</table>---
+<br/><br/>
 
-📈 Current Focus
+<img src="https://komarev.com/ghpvc/?username=SP-XD&label=Profile%20Views&color=00FFAB&style=for-the-badge" />
 
-<p align="center"><img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-90%25-00ff88?style=for-the-badge&labelColor=111111">
-<img src="https://img.shields.io/badge/PYTHON-85%25-00ff88?style=for-the-badge&labelColor=111111">
-<img src="https://img.shields.io/badge/FIREBASE-80%25-00ff88?style=for-the-badge&labelColor=111111"><br><br>
+</div>
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-70%25-00ff88?style=for-the-badge&labelColor=111111">
-<img src="https://img.shields.io/badge/LINUX-60%25-00ff88?style=for-the-badge&labelColor=111111"></p>---
-
-🌐 Root Access
-
-<p align="center"><a href="https://t.me/rootaccess_7">
-<img src="https://img.shields.io/badge/ROOT%20ACCESS-00ff88?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111">
-</a></p><p align="center">
-<b>Cybersecurity • Tools • Tutorials • Research</b>
-</p>---
-
-🤝 Connect
-
-<p align="center"><a href="https://github.com/BlackHamo">
-<img src="https://img.shields.io/badge/GitHub-BlackHamo-111111?style=for-the-badge&logo=github&logoColor=white">
-</a><a href="https://t.me/rootaccess_7">
-<img src="https://img.shields.io/badge/Telegram-Root%20Access-111111?style=for-the-badge&logo=telegram&logoColor=00ff88">
-</a></p>---
-
-<p align="center">
-  <b>⚡ Code • Build • Learn • Repeat ⚡</b>
-</p><p align="center">
-  <i>「 Always learning. Always building. 」</i>
-</p>
+<div align="center">
+<sub>💡 Made with passion by Black Hamo — Keep building, keep creating 🚀</sub>
+</div>
