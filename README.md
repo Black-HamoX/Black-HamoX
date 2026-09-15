@@ -47,48 +47,149 @@ class AboutMe:
 
 me = AboutMe()
 me.say_hi()
-🧠 Skills
-<div align="center"> <img src="https://skillicons.dev/icons?i=py,html,css,js,firebase,git,linux,vscode,figma,photoshop&theme=dark" height="60"/> </div>
+```
+
+<br/>
+
+---
+
+## 🧠 Skills
+
 <div align="center">
-Skill	Progress
-🐍 Python	<img src="https://progress-bar.xyz/85/?width=400&color=3776AB&title=Python&suffix=%25" alt="Python 85%"/>
-🌐 HTML5	<img src="https://progress-bar.xyz/90/?width=400&color=E34F26&title=HTML&suffix=%25" alt="HTML 90%"/>
-🎨 CSS3	<img src="https://progress-bar.xyz/75/?width=400&color=8A2BE2&title=CSS&suffix=%25" alt="CSS 75%"/>
-⚡ JavaScript	<img src="https://progress-bar.xyz/70/?width=400&color=F0DB4F&title=JS&suffix=%25" alt="JS 70%"/>
-🔥 Firebase	<img src="https://progress-bar.xyz/80/?width=400&color=FFCA28&title=Firebase&suffix=%25" alt="Firebase 80%"/>
-🐧 Git & Linux	<img src="https://progress-bar.xyz/60/?width=400&color=6e6e6e&title=Git+%26+Linux&suffix=%25" alt="Git & Linux 60%"/>
+<img src="https://skillicons.dev/icons?i=py,html,css,js,firebase,git,linux,vscode,figma,photoshop&theme=dark" height="60"/>
 </div>
-⭕ Skill Rings
-<div align="center"> <table> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=py" height="45"/><br/> <img src="https://img.shields.io/badge/-85%25-3776AB?style=for-the-badge&labelColor=1a1a1a" height="28"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html" height="45"/><br/> <img src="https://img.shields.io/badge/-90%25-E34F26?style=for-the-badge&labelColor=1a1a1a" height="28"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=css" height="45"/><br/> <img src="https://img.shields.io/badge/-75%25-8A2BE2?style=for-the-badge&labelColor=1a1a1a" height="28"/> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=js" height="45"/><br/> <img src="https://img.shields.io/badge/-70%25-F0DB4F?style=for-the-badge&labelColor=1a1a1a" height="28"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=firebase" height="45"/><br/> <img src="https://img.shields.io/badge/-80%25-FFCA28?style=for-the-badge&labelColor=1a1a1a" height="28"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git,linux" height="45"/><br/> <img src="https://img.shields.io/badge/-60%25-6e6e6e?style=for-the-badge&labelColor=1a1a1a" height="28"/> </td> </tr> </table> </div>
-🛠️ Tools & Tech Stack
-<div align="center"><img src="https://skillicons.dev/icons?i=html,js,py,css,firebase,git,linux,vscode,figma,photoshop&theme=dark" height="55"/>
 
+<br/>
 
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></div>
-📊 GitHub Stats
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackHamo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00FFAB"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHamo&layout=compact&langs_count=8&theme=radical&border_color=00FFAB"/>
+| Skill | Progress |
+|:---:|:---|
+| 🐍 Python | <img src="https://progress-bar.xyz/85/?width=400&color=3776AB&title=Python&suffix=%25" alt="Python 85%"/> |
+| 🌐 HTML5 | <img src="https://progress-bar.xyz/90/?width=400&color=E34F26&title=HTML&suffix=%25" alt="HTML 90%"/> |
+| 🎨 CSS3 | <img src="https://progress-bar.xyz/75/?width=400&color=8A2BE2&title=CSS&suffix=%25" alt="CSS 75%"/> |
+| ⚡ JavaScript | <img src="https://progress-bar.xyz/70/?width=400&color=F0DB4F&title=JS&suffix=%25" alt="JS 70%"/> |
+| 🔥 Firebase | <img src="https://progress-bar.xyz/80/?width=400&color=FFCA28&title=Firebase&suffix=%25" alt="Firebase 80%"/> |
+| 🐧 Git & Linux | <img src="https://progress-bar.xyz/60/?width=400&color=6e6e6e&title=Git+%26+Linux&suffix=%25" alt="Git & Linux 60%"/> |
 
+</div>
 
+<br/>
+
+---
+
+## ⭕ Skill Rings
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=py" height="45"/><br/>
+<img src="https://img.shields.io/badge/-85%25-3776AB?style=for-the-badge&labelColor=1a1a1a" height="28"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" height="45"/><br/>
+<img src="https://img.shields.io/badge/-90%25-E34F26?style=for-the-badge&labelColor=1a1a1a" height="28"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" height="45"/><br/>
+<img src="https://img.shields.io/badge/-75%25-8A2BE2?style=for-the-badge&labelColor=1a1a1a" height="28"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" height="45"/><br/>
+<img src="https://img.shields.io/badge/-70%25-F0DB4F?style=for-the-badge&labelColor=1a1a1a" height="28"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/><br/>
+<img src="https://img.shields.io/badge/-80%25-FFCA28?style=for-the-badge&labelColor=1a1a1a" height="28"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,linux" height="45"/><br/>
+<img src="https://img.shields.io/badge/-60%25-6e6e6e?style=for-the-badge&labelColor=1a1a1a" height="28"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tools & Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,js,py,css,firebase,git,linux,vscode,figma,photoshop&theme=dark" height="55"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackHamo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00FFAB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHamo&layout=compact&langs_count=8&theme=radical&border_color=00FFAB"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHamo&theme=radical&border=00FFAB&stroke=00FFAB"/>
 
+<br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=BlackHamo&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BlackHamo&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/></div>
-📫 Let's Connect
-<div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF"/>
+</div>
 
+<br/>
 
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF"/>
+
+<br/><br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-
-
+<br/><br/>
 
 <sub>💡 Made with passion by Black Hamo — Keep building, keep creating 🚀</sub>
 
-</div><!-- 🌊 Green Animated Wavy Sea at the bottom --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,50:00CC88,100:003322&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/> </div><!-- Extra wavy layers for a richer sea effect --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:004433&height=120&section=footer&reversal=true" width="100%"/> </div> ```
+</div>
+
+<!-- 🌊 Green Animated Wavy Sea at the bottom -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,50:00CC88,100:003322&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
+
+<!-- Extra wavy layers for a richer sea effect -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:004433&height=120&section=footer&reversal=true" width="100%"/>
+</div>
