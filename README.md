@@ -191,14 +191,8 @@ me.say_hi()
 
 </div>
 
-<!-- 🌊 Green Animated Wavy Sea at the bottom -->
+<!-- 🌊 Single Green Animated Wave -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,50:00CC88,100:003322&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
-</div>
-
-<!-- Extra wavy layers for a richer sea effect -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAB,100:004433&height=120&section=footer&reversal=true" width="100%"/>
 </div>
